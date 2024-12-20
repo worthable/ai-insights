@@ -1,0 +1,4 @@
+baseURL = 'https://ai-insights.github.io/'
+languageCode = 'en-us'
+title = 'AI insights'
+theme = 'ananke'
